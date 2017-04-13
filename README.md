@@ -1,0 +1,2 @@
+Simple Job interview Scheduling using Priority Queues coded in C.
+The user lists out the vacant positions and the time scheduled for each interview for that position. This is followed by the registration for the job interview by people who have to provide their name and the position they are applying for. The program uses priority queue to schedule the positions taking less time first and the time consuming interviews later to provide efficiency. The scheduled interview is called and the interview is dequeued from the interview list.
